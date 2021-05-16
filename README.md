@@ -18,8 +18,6 @@ I’m Kryspin and I’m self-tought software developer. I’m from Poland, livin
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Tools-MSSQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tools-VSDataTools-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <!-- Icons -->
 

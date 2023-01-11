@@ -6,7 +6,7 @@
 I’m Kryspin and I’m self-tought software developer. I come from Poland and I live in Leicester in UK. I'm currently working on projects in .NET technology.
 - 👀 I’m interested in .NET and web technology.
 - 🌱 I’m currently learning web development and process flow in SQL.
-- ✏️ I’m looking new opportunities to study harder C#, SQL, HTML CSS.
+- ✏️ I’m looking new opportunities to study harder C#, SQL, HTML CSS, JS.
 - 📫 You can find me on    [![LinkedIn][1.2]][1] 
 
 

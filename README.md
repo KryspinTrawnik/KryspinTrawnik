@@ -1,9 +1,10 @@
-### Hi there 👋
+Hello, 
+I'm Kryspin and welcome to my GitHub profile! I'm a passionate programmer and software developer, based in Leicester, UK. I have a strong background in C# and .NET Framework, and I enjoy building applications that are both functional and user-friendly.
 
+On this profile, you'll find a collection of my personal projects and contributions to various open-source projects. These projects cover a range of topics and technologies, from console applications to web applications.
 
+If you have any questions or comments about my projects, feel free to get in touch. I'm always open to feedback and new ideas. Thanks for stopping by!e in Leicester in UK. I'm currently working on projects in .NET technology.
 
-
-I’m Kryspin and I’m self-tought software developer. I come from Poland and I live in Leicester in UK. I'm currently working on projects in .NET technology.
 - 👀 I’m interested in .NET and web technology.
 - 🌱 I’m currently learning web development and process flow in SQL.
 - ✏️ I’m looking new opportunities to study harder C#, SQL, HTML CSS, JS.

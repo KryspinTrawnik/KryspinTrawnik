@@ -3,7 +3,7 @@ I'm Kryspin and welcome to my GitHub profile! I'm a passionate programmer and so
 
 On this profile, you'll find a collection of my personal projects and contributions to various open-source projects. These projects cover a range of topics and technologies, from console applications to web applications.
 
-If you have any questions or comments about my projects, feel free to get in touch. I'm always open to feedback and new ideas. Thanks for stopping by!e in Leicester in UK. I'm currently working on projects in .NET technology.
+If you have any questions or comments about my projects, feel free to get in touch. I'm always open to feedback and new ideas. Thanks for stopping by!
 
 - 👀 I’m interested in .NET and web technology.
 - 🌱 I’m currently learning web development and process flow in SQL.
